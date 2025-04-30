@@ -1,1 +1,2 @@
 # Prodigy_FS_05
+A social media platform is a digital space where users create, share, and interact with content and connect with others globally. These platforms enable communication through text, images, videos, and live streams. They support communities, personal branding, business marketing, and entertainment. Users can follow, like, comment, and engage with content in real-time. Popular examples include Facebook, Instagram, Twitter, and TikTok. Social media platforms continue to shape how people communicate, share news, and build online identities.
